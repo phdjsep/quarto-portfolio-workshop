@@ -50,3 +50,6 @@ rsconnect/
 
 # Mac Crap
 .DS_Store
+
+# Quarto tings
+slides/*.html
