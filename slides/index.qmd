@@ -20,9 +20,9 @@ execute:
 
 <hr>
 
-<h3> Instructor: [Sep Dadsetan, PhD](https://www.linkedin.com/in/sepdadsetan/) </h3>
+<h3> Instructor: [Sep Dadsetan, PhD](https://sepd.dev) </h3>
 <h3> 2025-01-27 </h3>
-<h4>Brought to you by SoCal RUG</h4>
+<h4>Sponsored by SoCal RUG</h4>
 <br>
 
 ![](images/github_hex.png){.absolute top=480 left=1250 width="300"}
@@ -58,7 +58,13 @@ General overview of today's agenda:
 #### **Fun Fact**  
 - I was a professional DJ for 15 years
 
-*I’m excited to guide you through creating an impressive portfolio!*
+## Meet your TAs
+
+- Rebecca Butler
+- Pablo Barajas
+- Javier Orraca-Deatcu
+
+*We're excited to guide you through creating an impressive portfolio!*
 
 
 ## Why Create a Portfolio Site?
