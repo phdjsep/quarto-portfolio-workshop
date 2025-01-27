@@ -540,7 +540,7 @@ Open `index.qmd` and describe your project.
 
 Include the following:
 
-- A short introduction to the Palmer Penguins dataset.
+- A short introduction to the Iris dataset.
 - Key steps in your analysis (e.g., data cleaning, visualization, modeling).
 - Include code snippets, plots, and conclusions.
 
